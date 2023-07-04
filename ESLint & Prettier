@@ -7,3 +7,5 @@
 //ESLint extension for VSCode
 
 //https://relatablecode.com/how-to-quickly-sort-imports-with-prettier --- how to configure imports in Prettier
+
+//npx prettier --write . --- to apply prettier throughout the code
