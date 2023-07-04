@@ -5,3 +5,5 @@
 //https://eslint.org/docs/latest/use/configure/ --- all the rules for eslint
 
 //ESLint extension for VSCode
+
+//https://relatablecode.com/how-to-quickly-sort-imports-with-prettier --- how to configure imports in Prettier
