@@ -1,3 +1,7 @@
 #Configuration of ESLint
 
-//https://andrebnassis.medium.com/setting-eslint-on-a-react-typescript-project-2021-1190a43ffba
+//https://blog.logrocket.com/linting-typescript-eslint-prettier/ --- how to configure eslint
+
+//https://eslint.org/docs/latest/use/configure/ --- all the rules for eslint
+
+//ESLint extension for VSCode
